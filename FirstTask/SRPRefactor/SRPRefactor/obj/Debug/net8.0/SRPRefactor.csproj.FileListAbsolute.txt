@@ -1,0 +1,15 @@
+/Users/andrei/RiderProjects/patterns-study-csharp/FirstTask/SRPRefactor/SRPRefactor/bin/Debug/net8.0/SRPRefactor
+/Users/andrei/RiderProjects/patterns-study-csharp/FirstTask/SRPRefactor/SRPRefactor/bin/Debug/net8.0/SRPRefactor.deps.json
+/Users/andrei/RiderProjects/patterns-study-csharp/FirstTask/SRPRefactor/SRPRefactor/bin/Debug/net8.0/SRPRefactor.runtimeconfig.json
+/Users/andrei/RiderProjects/patterns-study-csharp/FirstTask/SRPRefactor/SRPRefactor/bin/Debug/net8.0/SRPRefactor.dll
+/Users/andrei/RiderProjects/patterns-study-csharp/FirstTask/SRPRefactor/SRPRefactor/bin/Debug/net8.0/SRPRefactor.pdb
+/Users/andrei/RiderProjects/patterns-study-csharp/FirstTask/SRPRefactor/SRPRefactor/obj/Debug/net8.0/SRPRefactor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrei/RiderProjects/patterns-study-csharp/FirstTask/SRPRefactor/SRPRefactor/obj/Debug/net8.0/SRPRefactor.AssemblyInfoInputs.cache
+/Users/andrei/RiderProjects/patterns-study-csharp/FirstTask/SRPRefactor/SRPRefactor/obj/Debug/net8.0/SRPRefactor.AssemblyInfo.cs
+/Users/andrei/RiderProjects/patterns-study-csharp/FirstTask/SRPRefactor/SRPRefactor/obj/Debug/net8.0/SRPRefactor.csproj.CoreCompileInputs.cache
+/Users/andrei/RiderProjects/patterns-study-csharp/FirstTask/SRPRefactor/SRPRefactor/obj/Debug/net8.0/SRPRefactor.sourcelink.json
+/Users/andrei/RiderProjects/patterns-study-csharp/FirstTask/SRPRefactor/SRPRefactor/obj/Debug/net8.0/SRPRefactor.dll
+/Users/andrei/RiderProjects/patterns-study-csharp/FirstTask/SRPRefactor/SRPRefactor/obj/Debug/net8.0/refint/SRPRefactor.dll
+/Users/andrei/RiderProjects/patterns-study-csharp/FirstTask/SRPRefactor/SRPRefactor/obj/Debug/net8.0/SRPRefactor.pdb
+/Users/andrei/RiderProjects/patterns-study-csharp/FirstTask/SRPRefactor/SRPRefactor/obj/Debug/net8.0/SRPRefactor.genruntimeconfig.cache
+/Users/andrei/RiderProjects/patterns-study-csharp/FirstTask/SRPRefactor/SRPRefactor/obj/Debug/net8.0/ref/SRPRefactor.dll
