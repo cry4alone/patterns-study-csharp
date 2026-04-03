@@ -1,0 +1,15 @@
+/Users/andrei/RiderProjects/patterns-study-csharp/ChainOfResponsibility/ChainOfResponsibility/ChainOfResponsibility/bin/Debug/net8.0/ChainOfResponsibility
+/Users/andrei/RiderProjects/patterns-study-csharp/ChainOfResponsibility/ChainOfResponsibility/ChainOfResponsibility/bin/Debug/net8.0/ChainOfResponsibility.deps.json
+/Users/andrei/RiderProjects/patterns-study-csharp/ChainOfResponsibility/ChainOfResponsibility/ChainOfResponsibility/bin/Debug/net8.0/ChainOfResponsibility.runtimeconfig.json
+/Users/andrei/RiderProjects/patterns-study-csharp/ChainOfResponsibility/ChainOfResponsibility/ChainOfResponsibility/bin/Debug/net8.0/ChainOfResponsibility.dll
+/Users/andrei/RiderProjects/patterns-study-csharp/ChainOfResponsibility/ChainOfResponsibility/ChainOfResponsibility/bin/Debug/net8.0/ChainOfResponsibility.pdb
+/Users/andrei/RiderProjects/patterns-study-csharp/ChainOfResponsibility/ChainOfResponsibility/ChainOfResponsibility/obj/Debug/net8.0/ChainOfResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrei/RiderProjects/patterns-study-csharp/ChainOfResponsibility/ChainOfResponsibility/ChainOfResponsibility/obj/Debug/net8.0/ChainOfResponsibility.AssemblyInfoInputs.cache
+/Users/andrei/RiderProjects/patterns-study-csharp/ChainOfResponsibility/ChainOfResponsibility/ChainOfResponsibility/obj/Debug/net8.0/ChainOfResponsibility.AssemblyInfo.cs
+/Users/andrei/RiderProjects/patterns-study-csharp/ChainOfResponsibility/ChainOfResponsibility/ChainOfResponsibility/obj/Debug/net8.0/ChainOfResponsibility.csproj.CoreCompileInputs.cache
+/Users/andrei/RiderProjects/patterns-study-csharp/ChainOfResponsibility/ChainOfResponsibility/ChainOfResponsibility/obj/Debug/net8.0/ChainOfResponsibility.sourcelink.json
+/Users/andrei/RiderProjects/patterns-study-csharp/ChainOfResponsibility/ChainOfResponsibility/ChainOfResponsibility/obj/Debug/net8.0/ChainOfResponsibility.dll
+/Users/andrei/RiderProjects/patterns-study-csharp/ChainOfResponsibility/ChainOfResponsibility/ChainOfResponsibility/obj/Debug/net8.0/refint/ChainOfResponsibility.dll
+/Users/andrei/RiderProjects/patterns-study-csharp/ChainOfResponsibility/ChainOfResponsibility/ChainOfResponsibility/obj/Debug/net8.0/ChainOfResponsibility.pdb
+/Users/andrei/RiderProjects/patterns-study-csharp/ChainOfResponsibility/ChainOfResponsibility/ChainOfResponsibility/obj/Debug/net8.0/ChainOfResponsibility.genruntimeconfig.cache
+/Users/andrei/RiderProjects/patterns-study-csharp/ChainOfResponsibility/ChainOfResponsibility/ChainOfResponsibility/obj/Debug/net8.0/ref/ChainOfResponsibility.dll
