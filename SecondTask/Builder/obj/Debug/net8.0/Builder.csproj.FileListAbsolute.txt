@@ -1,0 +1,15 @@
+/Users/andrei/RiderProjects/patterns-study-csharp/SecondTask/Builder/obj/Debug/net8.0/Builder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrei/RiderProjects/patterns-study-csharp/SecondTask/Builder/obj/Debug/net8.0/Builder.AssemblyInfoInputs.cache
+/Users/andrei/RiderProjects/patterns-study-csharp/SecondTask/Builder/obj/Debug/net8.0/Builder.AssemblyInfo.cs
+/Users/andrei/RiderProjects/patterns-study-csharp/SecondTask/Builder/obj/Debug/net8.0/Builder.csproj.CoreCompileInputs.cache
+/Users/andrei/RiderProjects/patterns-study-csharp/SecondTask/Builder/obj/Debug/net8.0/Builder.sourcelink.json
+/Users/andrei/RiderProjects/patterns-study-csharp/SecondTask/Builder/bin/Debug/net8.0/Builder
+/Users/andrei/RiderProjects/patterns-study-csharp/SecondTask/Builder/bin/Debug/net8.0/Builder.deps.json
+/Users/andrei/RiderProjects/patterns-study-csharp/SecondTask/Builder/bin/Debug/net8.0/Builder.runtimeconfig.json
+/Users/andrei/RiderProjects/patterns-study-csharp/SecondTask/Builder/bin/Debug/net8.0/Builder.dll
+/Users/andrei/RiderProjects/patterns-study-csharp/SecondTask/Builder/bin/Debug/net8.0/Builder.pdb
+/Users/andrei/RiderProjects/patterns-study-csharp/SecondTask/Builder/obj/Debug/net8.0/Builder.dll
+/Users/andrei/RiderProjects/patterns-study-csharp/SecondTask/Builder/obj/Debug/net8.0/refint/Builder.dll
+/Users/andrei/RiderProjects/patterns-study-csharp/SecondTask/Builder/obj/Debug/net8.0/Builder.pdb
+/Users/andrei/RiderProjects/patterns-study-csharp/SecondTask/Builder/obj/Debug/net8.0/Builder.genruntimeconfig.cache
+/Users/andrei/RiderProjects/patterns-study-csharp/SecondTask/Builder/obj/Debug/net8.0/ref/Builder.dll

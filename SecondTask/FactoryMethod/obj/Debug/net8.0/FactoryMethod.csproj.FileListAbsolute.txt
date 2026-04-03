@@ -1,0 +1,15 @@
+/Users/andrei/RiderProjects/patterns-study-csharp/SecondTask/FactoryMethod/obj/Debug/net8.0/FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrei/RiderProjects/patterns-study-csharp/SecondTask/FactoryMethod/obj/Debug/net8.0/FactoryMethod.AssemblyInfoInputs.cache
+/Users/andrei/RiderProjects/patterns-study-csharp/SecondTask/FactoryMethod/obj/Debug/net8.0/FactoryMethod.AssemblyInfo.cs
+/Users/andrei/RiderProjects/patterns-study-csharp/SecondTask/FactoryMethod/obj/Debug/net8.0/FactoryMethod.csproj.CoreCompileInputs.cache
+/Users/andrei/RiderProjects/patterns-study-csharp/SecondTask/FactoryMethod/obj/Debug/net8.0/FactoryMethod.sourcelink.json
+/Users/andrei/RiderProjects/patterns-study-csharp/SecondTask/FactoryMethod/bin/Debug/net8.0/FactoryMethod
+/Users/andrei/RiderProjects/patterns-study-csharp/SecondTask/FactoryMethod/bin/Debug/net8.0/FactoryMethod.deps.json
+/Users/andrei/RiderProjects/patterns-study-csharp/SecondTask/FactoryMethod/bin/Debug/net8.0/FactoryMethod.runtimeconfig.json
+/Users/andrei/RiderProjects/patterns-study-csharp/SecondTask/FactoryMethod/bin/Debug/net8.0/FactoryMethod.dll
+/Users/andrei/RiderProjects/patterns-study-csharp/SecondTask/FactoryMethod/bin/Debug/net8.0/FactoryMethod.pdb
+/Users/andrei/RiderProjects/patterns-study-csharp/SecondTask/FactoryMethod/obj/Debug/net8.0/FactoryMethod.dll
+/Users/andrei/RiderProjects/patterns-study-csharp/SecondTask/FactoryMethod/obj/Debug/net8.0/refint/FactoryMethod.dll
+/Users/andrei/RiderProjects/patterns-study-csharp/SecondTask/FactoryMethod/obj/Debug/net8.0/FactoryMethod.pdb
+/Users/andrei/RiderProjects/patterns-study-csharp/SecondTask/FactoryMethod/obj/Debug/net8.0/FactoryMethod.genruntimeconfig.cache
+/Users/andrei/RiderProjects/patterns-study-csharp/SecondTask/FactoryMethod/obj/Debug/net8.0/ref/FactoryMethod.dll

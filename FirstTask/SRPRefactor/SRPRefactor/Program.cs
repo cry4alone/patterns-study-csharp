@@ -25,7 +25,6 @@
 //     }
 // }
 
-
 var user = new User { Name = "Иван", Email = "ivan@test.com" };
         
 var repo = new UserRepository();

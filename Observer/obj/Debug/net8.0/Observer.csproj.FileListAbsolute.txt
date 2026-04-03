@@ -1,0 +1,15 @@
+/Users/andrei/RiderProjects/patterns-study-csharp/Observer/bin/Debug/net8.0/Observer
+/Users/andrei/RiderProjects/patterns-study-csharp/Observer/bin/Debug/net8.0/Observer.deps.json
+/Users/andrei/RiderProjects/patterns-study-csharp/Observer/bin/Debug/net8.0/Observer.runtimeconfig.json
+/Users/andrei/RiderProjects/patterns-study-csharp/Observer/bin/Debug/net8.0/Observer.dll
+/Users/andrei/RiderProjects/patterns-study-csharp/Observer/bin/Debug/net8.0/Observer.pdb
+/Users/andrei/RiderProjects/patterns-study-csharp/Observer/obj/Debug/net8.0/Observer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrei/RiderProjects/patterns-study-csharp/Observer/obj/Debug/net8.0/Observer.AssemblyInfoInputs.cache
+/Users/andrei/RiderProjects/patterns-study-csharp/Observer/obj/Debug/net8.0/Observer.AssemblyInfo.cs
+/Users/andrei/RiderProjects/patterns-study-csharp/Observer/obj/Debug/net8.0/Observer.csproj.CoreCompileInputs.cache
+/Users/andrei/RiderProjects/patterns-study-csharp/Observer/obj/Debug/net8.0/Observer.sourcelink.json
+/Users/andrei/RiderProjects/patterns-study-csharp/Observer/obj/Debug/net8.0/Observer.dll
+/Users/andrei/RiderProjects/patterns-study-csharp/Observer/obj/Debug/net8.0/refint/Observer.dll
+/Users/andrei/RiderProjects/patterns-study-csharp/Observer/obj/Debug/net8.0/Observer.pdb
+/Users/andrei/RiderProjects/patterns-study-csharp/Observer/obj/Debug/net8.0/Observer.genruntimeconfig.cache
+/Users/andrei/RiderProjects/patterns-study-csharp/Observer/obj/Debug/net8.0/ref/Observer.dll
